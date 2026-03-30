@@ -1,5 +1,5 @@
 Hi, I'm Samriddhi Singh 👋
-Branch: B.Tech (Your Branch Here)
+Branch: B.Tech Computer Science and Engineering core
 Year: First Year
 College: VIT Bhopal University
 
